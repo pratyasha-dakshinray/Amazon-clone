@@ -85,7 +85,37 @@
     border-bottom-right-radius: 3px;
     color: #0f1111;
 }
-
+/** Language Option **/
 .language-option{
      justify-content: center;
+}
+
+/** Sign in **/
+span{
+    font-size: 0.8rem;
+}
+
+/** sign in and return - order **/
+
+.a-l{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+.r-o{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+.nav-search:hover{
+    border: 2px solid orange;
+}
+/** Cart **/
+.nav-cart i {
+    font-size: 30px;  
+}
+
+.nav-cart {
+    font-size: 0.85rem;
+    font-weight: 700px;
 }
