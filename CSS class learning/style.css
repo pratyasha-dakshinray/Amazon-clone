@@ -169,3 +169,323 @@ span{
 .hero-inside a{
     color: #007185;
 }
+
+/** Shopping Secton **/
+
+.shop-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+.box {
+    height: 250px;
+    width: 23%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 15px;
+}
+
+.mini-box-img11{
+    height: 200px;
+    background-size: cover;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.box-content1{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.box-content1 p{
+    color: #007185;
+}
+
+.mini-box-img12{
+    height: 200px;
+    background-size: cover;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.box-content2{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.box-content2 p{
+    color: #007185;
+}
+
+.mini-box-img13{
+    height: 200px;
+    background-size: cover;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.box-content3{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.box-content3 p{
+    color: #007185;
+}
+
+.mini-box-img14{
+    height: 200px;
+    background-size: cover;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.box-content4{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.box-content4 p{
+    color: #007185;
+}
+
+.mini-box-img21{
+    height: 200px;
+    background-size: cover;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.box-content5{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.box-content5 p{
+    color: #007185;
+}
+
+.mini-box-img22{
+    height: 200px;
+    background-size: cover;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.box-content6{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.box-content6 p{
+    color: #007185;
+}
+
+.mini-box-img23{
+    height: 200px;
+    background-size: cover;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.box-content7{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.box-content7 p{
+    color: #007185;
+}
+
+.mini-box-img24{
+    height: 200px;
+    background-size: cover;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.box-content8{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.box-content8 p{
+    color: #007185;
+}
+
+.mini-box-img31{
+    height: 200px;
+    background-size: cover;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.box-content9{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.box-content9 p{
+    color: #007185;
+}
+
+.mini-box-img32{
+    height: 200px;
+    background-size: cover;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.box-content10{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.box-content10 p{
+    color: #007185;
+}
+
+.mini-box-img33{
+    height: 200px;
+    background-size: cover;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.box-content11{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.box-content11 p{
+    color: #007185;
+}
+
+.mini-box-img34{
+    height: 200px;
+    background-size: cover;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.box-content12{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.box-content12 p{
+    color: #007185;
+}
+
+.mini-box-img41{
+    height: 200px;
+    background-size: cover;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.box-content13{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.box-content13 p{
+    color: #007185;
+}
+
+.mini-box-img42{
+    height: 200px;
+    background-size: cover;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.box-content14{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.box-content14 p{
+    color: #007185;
+}
+
+.mini-box-img43{
+    height: 200px;
+    background-size: cover;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.box-content15{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.box-content15 p{
+    color: #007185;
+}
+
+.mini-box-img44{
+    height: 200px;
+    background-size: cover;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.box-content16{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.box-content16 p{
+    color: #007185;
+}
