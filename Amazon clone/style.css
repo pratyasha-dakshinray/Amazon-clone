@@ -9,6 +9,7 @@
     background-color: #0f1111;
     color: white;
     display: flex;
+    align-items: center;
 }
 
 .nav-logo{
@@ -30,3 +31,17 @@
     border: 1px solid whitesmoke;
 }
 /** box2 **/
+.add1{
+    color: #cccccc;
+    font-size: 0.9rem;
+    margin-left: 15px;
+}
+
+.add2{
+    font-size: 1rem;
+    margin-left: 3px;
+}
+.add-icon{
+    display: flex;
+    align-items: center;
+}
