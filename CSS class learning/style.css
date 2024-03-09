@@ -143,3 +143,29 @@ span{
     font-size: 0.9rem;
     font-weight: 700;
 }
+
+/** Hero Section **/
+.hero-section{
+    background-image: url(hero\ image.jpg);
+    height: 350px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.hero-inside{
+    background-color: white;
+    color: black;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85;
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+.hero-inside a{
+    color: #007185;
+}
